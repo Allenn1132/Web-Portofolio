@@ -60,16 +60,16 @@ function App() {
             <h2 style={{ fontSize: '3rem', textAlign: 'center', marginBottom: '4rem' }}>Pengalaman</h2>
             <div className="grid-cols-2">
               <div className="glass glass-card">
-                <div style={{ display: 'inline-block', padding: '0.25rem 0.75rem', background: 'rgba(192, 132, 252, 0.1)', color: '#c084fc', borderRadius: '8px', fontSize: '0.875rem', marginBottom: '1rem', fontWeight: '600' }}>Terbaru</div>
-                <h3 style={{ fontSize: '1.5rem', marginBottom: '0.5rem' }}>Network Engineer</h3>
-                <p style={{ color: '#e2e8f0', fontWeight: '500', marginBottom: '1rem' }}>PT THRIVENI INDO MINING</p>
-                <p>Bertanggung jawab dalam merancang, mengelola, dan memelihara infrastruktur jaringan perusahaan. Memastikan konektivitas yang stabil, aman, dan berkinerja tinggi untuk mendukung kelancaran operasional.</p>
-              </div>
-              <div className="glass glass-card">
-                <div style={{ display: 'inline-block', padding: '0.25rem 0.75rem', background: 'rgba(96, 165, 250, 0.1)', color: '#60a5fa', borderRadius: '8px', fontSize: '0.875rem', marginBottom: '1rem', fontWeight: '600' }}>Sebelumnya</div>
+                <div style={{ display: 'inline-block', padding: '0.25rem 0.75rem', background: 'rgba(192, 132, 252, 0.1)', color: '#c084fc', borderRadius: '8px', fontSize: '0.875rem', marginBottom: '1rem', fontWeight: '600' }}>Magang</div>
                 <h3 style={{ fontSize: '1.5rem', marginBottom: '0.5rem' }}>IT Support</h3>
                 <p style={{ color: '#e2e8f0', fontWeight: '500', marginBottom: '1rem' }}>PT THRIVENI INDO MINING</p>
-                <p>Memberikan dukungan teknis yang komprehensif, menangani pemeliharaan perangkat keras dan lunak, serta melakukan *troubleshooting* untuk menyelesaikan kendala TI sehari-hari dengan efisien.</p>
+                <p>Memberikan dukungan teknis yang komprehensif, menangani pemeliharaan perangkat keras dan lunak, serta melakukan *troubleshooting* untuk menyelesaikan kendala TI operasional sehari-hari.</p>
+              </div>
+              <div className="glass glass-card">
+                <div style={{ display: 'inline-block', padding: '0.25rem 0.75rem', background: 'rgba(96, 165, 250, 0.1)', color: '#60a5fa', borderRadius: '8px', fontSize: '0.875rem', marginBottom: '1rem', fontWeight: '600' }}>Pendidikan</div>
+                <h3 style={{ fontSize: '1.5rem', marginBottom: '0.5rem' }}>Network Engineer</h3>
+                <p style={{ color: '#e2e8f0', fontWeight: '500', marginBottom: '1rem' }}>Sekolah Menengah Kejuruan (SMK)</p>
+                <p>Bertanggung jawab merancang dan mengelola infrastruktur jaringan lokal skala sekolah. Mengonfigurasi perangkat jaringan dan memastikan konektivitas yang stabil dan aman.</p>
               </div>
             </div>
           </div>
